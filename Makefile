@@ -1,0 +1,3 @@
+ativar:
+	.venv/Scripts/activate
+	
